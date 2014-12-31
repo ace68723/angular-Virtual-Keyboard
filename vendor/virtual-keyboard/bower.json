@@ -1,0 +1,16 @@
+{
+  "name": "virtual-keyboard",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ace68723/angular-Virtual-Keyboard",
+  "authors": [
+    "ace68723"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
